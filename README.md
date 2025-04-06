@@ -15,4 +15,4 @@ A simple shopping list app built with Kotlin and Firebase as part of the "Mobile
 
 ## Purpose
 This project was created as part of the **Mobile Applications** course to gain experience with mobile app development using Firebase services such as Firestore, Firebase Authentication, and Firebase Cloud Messaging. The app allows users to manage shopping lists with real-time synchronization. Additionally, users receive **push notifications** whenever someone else adds an item to their shopping list, keeping everyone up to date.
-![screenshot1](./screenshots/screenshot1.png)
+![screenshot1](./screenshots/Screenshot_20250406_204530.png)
