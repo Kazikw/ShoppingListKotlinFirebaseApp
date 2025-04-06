@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_position"
+        android:title="Dodaj do swojej listy"
+        app:showAsAction="always"
+        android:icon="@drawable/add"/>
+    <item
+        android:id="@+id/add_position_other"
+        android:title="Dodaj do listy innego użytkownika"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_people_24"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Dodaj do listy innego użytkownika"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_logout_24"/>
+</menu>

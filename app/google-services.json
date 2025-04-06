@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284180381852",
+    "project_id": "shoppinglist-f5a05",
+    "storage_bucket": "shoppinglist-f5a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284180381852:android:f0ac86b5afeea19a4ead59",
+        "android_client_info": {
+          "package_name": "com.wojtek.shoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVm24KvZh4bp0jWdWZf30itYOd-gX3nVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
